@@ -17,5 +17,5 @@ Carousel with goods, a ribbon  menu, a slider, loading goods from the server, dy
 
 ## David Chu’s China Bistro 
 Front page with Navbar,  Menu, Specials and Map tiles. Stack: JS, Ajax, Bootstrap, Git
-## https://www.davidchuschinabistro.com/#/
+## https://nikolaitsykin.github.io/github.io/DavidChu/
 
