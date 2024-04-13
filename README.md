@@ -7,6 +7,7 @@ Please see my projects list below
 ### Your weather - simple weather web application
 The most simple weather application with option to add locations to Favorites, show/close favourites menu and change unit of measure. App shows daily forecast, hourly forecast, variety of weather conditions, gets your location and changes background depending on time and weather.
 Stack: React, Tailwind, Git
+
 ###https://nikolaitsykin.github.io/react-weather-app/
 
 ### Stellar Burger - Space burger web application
