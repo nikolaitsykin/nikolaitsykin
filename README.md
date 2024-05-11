@@ -7,7 +7,7 @@ Please see my projects list below
 ### Your weather - weather web application
 The most simple weather application with option to add locations to Favorites, show/close favourites menu and change unit of measure. App shows daily forecast, hourly forecast, variety of weather conditions, gets your location and changes background depending on time and weather. Responsive design fits every screen.
 Stack: React, Tailwind, Git
-### https://nikolaitsykin.github.io/react-weather-app/
+## https://nikolaitsykin.github.io/react-weather-app/
 
 ### Feed App - posts feed web application
 Posts feed, searching, sorting, creating, removing, single post page with comments section, simple authorization.
