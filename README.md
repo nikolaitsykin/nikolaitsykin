@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nikolai, I am in my mid-thirties, living in Raleigh, NC. I'm a self-taught frontend developer completed several courses as well as React Developer course at yandex.praktikum. I am a Junior Frontend developer at yandex.praktikum experienced in development and operations in online re-skilling products company.
+My name is Nikolai, I am in my mid-thirties, living in Raleigh, NC. I'm a self-taught frontend developer with a passion for learning and mastering new technologies. Through dedication and perseverance, I've developed a strong foundation in frontend development, always seeking to enhance my expertise and tackle complex challenges. I am a Frontend developer at yandex.praktikum experienced in development and operations in online re-skilling products company.
 
 Please see my projects list below
 
