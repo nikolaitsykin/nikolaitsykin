@@ -11,6 +11,12 @@ Stack: TS, React, Redux, Git
 Please hit the "Return to the main page" button first
 ### https://nikolaitsykin.github.io/react-burger/
 
+## Blog app - Full stack blog web application
+Functionality: It is a full-featured blog-like application with user authentication, post creation, sorting and viewing, and comment management. The application features a top navigation bar (Header) and a main content area (Container) managed by the Routes component from react-router-dom, which defines various routes. Utilized Material UI components from the @mui/material library, such as Tabs and Grid. Implemented user authentication with login and registration components, and created a Home component as the main page. Leveraged Redux for state management, including an action to fetch user data, posts, tags and comments.
+Stack: React, Redux, MongoDB, Express, Node, SASS, Git
+
+### https://blog-app-frontend-dun.vercel.app/
+
 ## Your weather - weather web application
 The most simple weather application with option to add locations to Favorites, show/close favourites menu and change unit of measure. App shows daily forecast, hourly forecast, variety of weather conditions, gets your location and changes background depending on time and weather. Responsive design fits every screen.
 Stack: React, Tailwind, Git
