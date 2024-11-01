@@ -16,7 +16,7 @@ Unique Selling Points: Emphasis on eco-friendly products safe for families, kids
 **User Experience**: Designed for simplicity and ease, with intuitive navigation, fast-loading pages, and easy access to information. The site guides users from service exploration to booking in a few quick steps.
 
 Stack: React, Tailwind, Git
-#### chttps://blog-app-frontend-dun.vercel.app](https://getspotlessnc.com/
+#### https://blog-app-frontend-dun.vercel.app](https://getspotlessnc.com/
 
 ### Blog app - Full stack blog web application
 Functionality: It is a full-featured blog-like application with user authentication, post creation, sorting and viewing, and comment management. The application features a top navigation bar (Header) and a main content area (Container) managed by the Routes component from react-router-dom, which defines various routes. Utilized Material UI components from the @mui/material library, such as Tabs and Grid. Implemented user authentication with login and registration components, and created a Home component as the main page. Leveraged Redux for state management, including an action to fetch user data, posts, tags, and comments.
