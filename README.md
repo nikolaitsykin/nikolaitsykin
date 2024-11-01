@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nikolai, I am in my mid-thirties, and living in Raleigh, NC. I'm a self-taught front-end developer with a passion for learning and mastering new technologies. Through dedication and perseverance, I've developed a strong foundation in front-end development, always seeking to enhance my expertise and tackle complex challenges. I am a Frontend developer at Studyworld experienced in development and operations in an online re-skilling products company.
+My name is Nikolai, I am in my mid-thirties, and living in Raleigh, NC. I'm a front-end developer with a passion for learning and mastering new technologies. Through dedication and perseverance, I've developed a strong foundation in front-end development, always seeking to enhance my expertise and tackle complex challenges. I am a Frontend developer at Studyworld experienced in development and operations in an online re-skilling products company.
 
 Please see my projects list below
 
