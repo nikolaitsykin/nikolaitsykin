@@ -5,15 +5,26 @@ My name is Nikolai, I am in my mid-thirties, and living in Raleigh, NC. I'm a fr
 Please see my projects list below
 
 ### Spotless - Fully functioning Mobile Detailing Service Website
-This is a digital platform for a high-end, eco-friendly mobile auto detailing business, designed to attract environmentally-conscious and quality-focused car owners in North Carolina. The site is crafted with the core function of showcasing detailing services and providing a streamlined online booking experience.
-**Target Audience**: Car owners looking for convenient, eco-friendly, high-quality detailing services, including families, professionals, and environmentally-conscious clients.
-Unique Selling Points: Emphasis on eco-friendly products safe for families, kids, and pets; mobile convenience allowing services at clients’ preferred locations; commitment to high-quality, professional service.
-**Key Features**:
-**Service Showcase**: Clear, detailed descriptions of service packages, from simple washes to complete detailing, highlighting the unique benefits of each.
-**Online Booking System**: User-friendly booking tool allowing clients to view pricing, select services, and choose appointment times, creating a seamless experience.
-**Direct Contact Options**: Call-to-actions with phone, email, and social media links for quick access to customer support.
-**Design Aesthetic**: Clean, professional, and modern design that conveys a sense of luxury and attention to detail, with soft, eco-inspired color tones and polished typography.
-**User Experience**: Designed for simplicity and ease, with intuitive navigation, fast-loading pages, and easy access to information. The site guides users from service exploration to booking in a few quick steps.
+The Blog App is a streamlined web application built to showcase and manage blog posts, providing users with a platform to explore, read, and possibly interact with various entries. This platform demonstrates a clean and responsive layout that enhances readability and user interaction with the blog content.
+
+-   **Core Function**: To offer a space for creating, viewing, and managing blog posts in a well-organized, accessible format.
+
+-   **Target Audience**: Individuals interested in reading or managing blog posts, as well as users looking for an engaging, organized interface to interact with blog content.
+
+-   **Unique Selling Points**: Modern and simple user interface that highlights the blog content, responsive design ensuring accessibility across devices, and structured navigation for easy browsing and content management.
+
+-   **Key Features**:
+
+    -   **Home Page with Blog List**: Displays a list of blog posts for easy access, allowing users to quickly identify posts they wish to read.
+    -   **Individual Blog Post Pages**: Clicking on a post takes users to a dedicated page where the entire post is displayed in a clean, focused layout.
+    -   **Responsive Design**: Adjusts seamlessly for both mobile and desktop, ensuring a smooth experience across all devices.
+    -   **Simple Navigation**: Clear and easy-to-use navigation enhances the browsing experience, allowing users to transition between pages without confusion.
+    -   **Clean, Content-Focused Layout**: The app uses ample whitespace and clear typography to keep users' focus on the content.
+-   **Design Aesthetic**: Modern, minimalistic, and focused on readability. The app uses clean lines, white space, and a structured layout to draw attention to each blog post.
+
+-   **User Experience**: Designed with usability in mind, the interface is intuitive, allowing users to navigate the app with ease, whether they are on a desktop or mobile device. This layout and design approach ensure that readers enjoy a smooth, uninterrupted reading experience.
+
+The Blog App reflects strong front-end development skills, prioritizing user engagement and content organization. Its responsive, minimalist design supports an intuitive user experience ideal for displaying blog content.
 
 Stack: React, Tailwind, Git
 #### https://getspotlessnc.com/
