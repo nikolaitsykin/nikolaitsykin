@@ -44,7 +44,30 @@ Stack: React, Redux, MongoDB, Express, Node, SASS, Git
 #### https://blog-app-frontend-dun.vercel.app/
 
 ### Stellar Burger - Space Burger web application
-Functionality: Ingredients menu with dynamic tabs, burger constructor with Drag'n'drop on the main page, modal windows of ingredients and orders, authorization form with a request to the server, a personal account page, an orders feed, and an authorized user's orders feed. 
+The Burger Builder App is an interactive web application that allows users to build their customized burgers from scratch, showcasing the essential principles of component-based front-end development with React. This app emphasizes user control, interactivity, and dynamic visualization of their burger creations.
+
+Core Function: To provide an interactive platform where users can build a virtual burger by adding or removing ingredients, all while seeing a live visual update of their burger in real-time.
+
+Target Audience: Users interested in food customization apps, as well as those wanting to explore interactive product building, such as ordering systems or demo apps for component-based design.
+
+Unique Selling Points:
+
+Real-time visual feedback of the burger as ingredients are added or removed.
+Intuitive interface for customizing a product with multiple ingredient choices.
+Dynamic price calculation based on selected ingredients.
+Key Features:
+
+Ingredient Selector: Users can add or remove individual burger ingredients (like lettuce, cheese, meat, etc.) with simple buttons.
+Real-time Burger Preview: A live preview of the burger stack updates instantly as ingredients are modified.
+Dynamic Price Calculation: The app calculates the total cost of the burger dynamically based on ingredients added, providing users with a transparent view of pricing.
+Order Summary Modal: A summary modal pops up to display the final burger composition and cost before an order confirmation.
+Interactive Interface: Designed to respond to user inputs immediately, enhancing user engagement.
+Design Aesthetic: Clean, modern, and colorful with a playful vibe. The app uses bright, appetizing colors for the ingredients and a simple, card-based layout for easy readability.
+
+User Experience: The app provides a highly interactive and engaging experience. Users can intuitively add or remove ingredients and see the effects immediately, making the customization process enjoyable. Clear, organized UI components make it easy for users to understand and control their choices.
+
+This Burger Builder App showcases proficiency in using React to create interactive, component-driven applications. It combines real-time visual updates, responsive UI, and practical design choices that align with the user’s goal of personalizing their burger while demonstrating the power of a front-end framework in building responsive, visually appealing apps.
+
 Stack: TS, React, Redux, Git
 Please hit the "Return to the main page" button first
 #### https://nikolaitsykin.github.io/react-burger/
