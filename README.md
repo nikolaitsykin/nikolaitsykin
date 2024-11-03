@@ -94,7 +94,7 @@ User Experience: Intuitive and straightforward, with immediate weather results u
 This project demonstrates practical skills in React, API integration, and responsive design, creating a functional tool that meets the everyday needs of users seeking reliable weather information.
 
 Stack: React, Tailwind, Git
-### https://nikolaitsykin.github.io/react-weather-app/
+#### https://nikolaitsykin.github.io/react-weather-app/
 
 ### Feed App - posts feed web application
 This personal posts feed is designed to share and showcase posts on various topics, providing a digital portfolio of written content created by Nikolai Tsykin. The site is a clean, minimalist platform where readers can browse posts, offering an organized and distraction-free reading experience.
