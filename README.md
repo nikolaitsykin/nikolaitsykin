@@ -4,27 +4,32 @@ My name is Nikolai, I am in my mid-thirties, and living in Raleigh, NC. I'm a fr
 
 Please see my projects list below
 
-### Spotless - Fully functioning Mobile Detailing Service Website
-The Blog App is a streamlined web application built to showcase and manage blog posts, providing users with a platform to explore, read, and possibly interact with various entries. This platform demonstrates a clean and responsive layout that enhances readability and user interaction with the blog content.
+### Spotless - The Spotless Auto Detailing Website
+The Spotless Auto Detailing Website is a sleek and informative platform designed to showcase high-quality mobile detailing services for clients seeking convenience and top-tier care for their vehicles. This site delivers a user-friendly and visually appealing experience that highlights the company’s commitment to eco-friendly, family- and pet-safe detailing solutions.
 
--   **Core Function**: To offer a space for creating, viewing, and managing blog posts in a well-organized, accessible format.
+Core Function: To present Spotless Auto Detailing’s services in a clear, engaging format, allowing visitors to learn about and book a range of detailing options tailored to their needs.
 
--   **Target Audience**: Individuals interested in reading or managing blog posts, as well as users looking for an engaging, organized interface to interact with blog content.
+Target Audience: Vehicle owners looking for premium mobile detailing services, especially those who value environmental care and the convenience of mobile service options.
 
--   **Unique Selling Points**: Modern and simple user interface that highlights the blog content, responsive design ensuring accessibility across devices, and structured navigation for easy browsing and content management.
+Unique Selling Points: A polished, professional interface that aligns with the company’s high-end image, a focus on eco-friendly and safe detailing products, and an emphasis on convenience and quality.
 
--   **Key Features**:
+Key Features:
 
-    -   **Home Page with Blog List**: Displays a list of blog posts for easy access, allowing users to quickly identify posts they wish to read.
-    -   **Individual Blog Post Pages**: Clicking on a post takes users to a dedicated page where the entire post is displayed in a clean, focused layout.
-    -   **Responsive Design**: Adjusts seamlessly for both mobile and desktop, ensuring a smooth experience across all devices.
-    -   **Simple Navigation**: Clear and easy-to-use navigation enhances the browsing experience, allowing users to transition between pages without confusion.
-    -   **Clean, Content-Focused Layout**: The app uses ample whitespace and clear typography to keep users' focus on the content.
--   **Design Aesthetic**: Modern, minimalistic, and focused on readability. The app uses clean lines, white space, and a structured layout to draw attention to each blog post.
+Home Page with Service Overview: Provides an immediate snapshot of Spotless Auto Detailing’s offerings, with clear calls-to-action that guide visitors to learn more or book services.
 
--   **User Experience**: Designed with usability in mind, the interface is intuitive, allowing users to navigate the app with ease, whether they are on a desktop or mobile device. This layout and design approach ensure that readers enjoy a smooth, uninterrupted reading experience.
+Detailed Service Pages: Each detailing package and service is described in detail, offering transparency and helping potential customers understand the unique benefits of each option.
 
-The Blog App reflects strong front-end development skills, prioritizing user engagement and content organization. Its responsive, minimalist design supports an intuitive user experience ideal for displaying blog content.
+Booking and Contact Options: Clear, accessible booking options and contact information make scheduling a service convenient and straightforward for users.
+
+Responsive Design: Built to perform seamlessly on both mobile and desktop, ensuring accessibility and a smooth browsing experience across devices.
+
+Content-Focused Layout: Uses clean typography, ample whitespace, and a modern color scheme to maintain a professional, easy-to-navigate site that directs attention to service details and customer testimonials.
+
+Visual Aesthetic: Minimalist and refined, aligning with the brand’s upscale focus while maintaining a welcoming, approachable tone. The website’s design emphasizes professionalism and attention to detail.
+
+User Experience: Designed for simplicity and usability, the site offers intuitive navigation, allowing users to effortlessly explore services, read reviews, and book an appointment with confidence. The thoughtful layout and focus on readability ensure a pleasant experience for visitors across all devices.
+
+The Spotless Auto Detailing website reflects advanced front-end development and UX/UI principles, prioritizing user satisfaction and clarity. Its responsive and minimalistic design highlights the brand’s values and service excellence, ideal for engaging high-end detailing clients.
 
 Stack: React, Tailwind, Git
 #### https://getspotlessnc.com/
