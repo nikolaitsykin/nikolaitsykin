@@ -52,17 +52,17 @@ Simple Navigation: Clear and easy-to-use navigation enhances the browsing experi
 Clean, Content-Focused Layout: The app uses ample whitespace and clear typography to keep users' focus on the content.
 Design Aesthetic: Modern, minimalistic, and focused on readability. The app uses clean lines, white space, and a structured layout to draw attention to each blog post.
 
-User Experience: Designed with usability in mind, the interface is intuitive, allowing users to navigate the app with ease, whether they are on a desktop or mobile device. This layout and design approach ensure that readers enjoy a smooth, uninterrupted reading experience.
+User Experience: Designed with usability in mind, the interface is intuitive, allowing users to navigate the app with ease, whether they are on a desktop or mobile device. This layout and design approach ensures that readers enjoy a smooth, uninterrupted reading experience.
 
 The Blog App reflects strong front-end development skills, prioritizing user engagement and content organization. Its responsive, minimalist design supports an intuitive user experience ideal for displaying blog content.
 
-Stack: React, Redux, MongoDB, Express, Node, SASS, Git
+Stack: React, Redux, MongoDB, Express, Node, SASS, Git. Please allow the server to load for at least 10 seconds.
 #### https://blog-app-frontend-dun.vercel.app/
 
 ### Stellar Burger - Space Burger web application
 The Burger Builder App is an interactive web application that allows users to build their customized burgers from scratch, showcasing the essential principles of component-based front-end development with React. This app emphasizes user control, interactivity, and dynamic visualization of their burger creations.
 
-Core Function: To provide an interactive platform where users can build a virtual burger by adding or removing ingredients, all while seeing a live visual update of their burger in real-time.
+Core Function: To provide an interactive platform where users can build a virtual burger by adding or removing ingredients, all while seeing a live visual update of their burger in real time.
 
 Target Audience: Users interested in food customization apps, as well as those wanting to explore interactive product building, such as ordering systems or demo apps for component-based design.
 
